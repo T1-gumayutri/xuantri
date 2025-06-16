@@ -34,6 +34,17 @@ Highlights:
 - Product filtering, cart, and checkout features
 - Responsive layout for desktop and mobile
 
+### [Stationery-Officehub](https://github.com/Ryhtruly/Stationery-Officehub.git)
+A modern, responsive e-commerce website for office supplies, built with ReactJS.
+Highlights:
+- Fully functional shopping cart with item quantity and price calculation
+- Category-wise product listing with search & filter support
+- User authentication and login/registration system
+- Integration-ready structure for RESTful APIs
+- Clean UI/UX with component-based design
+Tech Stack: ReactJS, HTML, CSS, JavaScript, Bootstrap
+Purpose: Developed as a web development practice project focusing on frontend architecture and user interaction.
+
 ---
 
 ## 📚 Learning Journal
@@ -62,8 +73,8 @@ This journal reflects my habit of continuous growth and a passion for self-drive
 
 ## 📫 Connect with Me
 
-- 🔗 [Email](xuantri18112004@gmail.com)
-- 🌐 [Instagram](https://www.instagram.com/trixuan204/)
+- 🔗 Email: xuantri18112004@gmail.com
+- 🌐 Instagram: https://www.instagram.com/trixuan204/
 - 💬 Always open for collaboration, learning groups, and hackathons!
 
 ---
